@@ -1,0 +1,22 @@
+{
+  "_files": {},
+  "project": "宣传图订单",
+  "start": "2026-10-28",
+  "due": "2026-11-06",
+  "daily": 5,
+  "weekend": "否",
+  "committed": 15,
+  "quote": 4000,
+  "cost": 300,
+  "buffer": 20,
+  "items": [
+    {
+      "name": "设计制作",
+      "hours": 12
+    },
+    {
+      "name": "修改与交付",
+      "hours": 4
+    }
+  ]
+}
